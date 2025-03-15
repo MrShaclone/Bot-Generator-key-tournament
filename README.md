@@ -9,14 +9,19 @@ Bem-vindo ao Bot Generator key tournament! Este bot do Discord ajuda você a cri
 1. **Clone o repositório:**
    ```sh
    git clone https://github.com/MrShaclone/Bot-Generator-key-tournament.git
-Instale as dependências: Certifique-se de ter o Python instalado. Em seguida, instale as dependências necessárias:
-
+Instale as dependências: Certifique-se de ter o Python instalado.
+ 
+Em seguida, instale as dependências necessárias:
+   ```sh
 pip install discord.py
+```
 Configure o token do bot: Abra o arquivo bot.py e substitua "seu token no final do codigo" pelo token do seu bot do Discord.
 
-Execute o bot:
-
+**Execute o bot:**
+```sh
 python bot.py
+```
+
 Uso
 Inicie o bot: Certifique-se de que o bot está online no seu servidor do Discord.
 
@@ -32,7 +37,7 @@ Visualize as chaves geradas: O bot gerará as chaves de forma aleatória e envia
 
 Encerrar o canal: Após visualizar as chaves, você pode clicar no botão "Encerrar Canal" para fechar o canal privado.
 
-Exemplo de Chaves Geradas
+Exemplo de Chaves Geradas:
 
 **Chaves geradas:**
 CHAVE 1
@@ -43,5 +48,7 @@ Time C VS Time D
 
 CHAVE 3
 Time E VS BYE
-Contribuição
+
+
+**Contribuição**
 Sinta-se à vontade para contribuir com melhorias e novas funcionalidades. Basta abrir uma issue ou enviar um pull request.
