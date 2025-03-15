@@ -8,7 +8,7 @@ Bem-vindo ao Bot Generator key tournament! Este bot do Discord ajuda você a cri
 
 1. **Clone o repositório:**
    ```sh
-git clone https://github.com/MrShaclone/Bot-Generator-key-tournament.git
+   git clone https://github.com/MrShaclone/Bot-Generator-key-tournament.git
 Instale as dependências: **Certifique-se de ter o Python instalado.**
  
 Em seguida, instale as dependências necessárias:
